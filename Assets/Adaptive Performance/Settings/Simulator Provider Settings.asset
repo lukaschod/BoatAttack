@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02a364304553d4fe797810bd5c88f9d8, type: 3}
-  m_Name: Samsung Android Provider Settings
+  m_Script: {fileID: 11500000, guid: b592865877cb54284a5d1d88aec9cfbb, type: 3}
+  m_Name: Simulator Provider Settings
   m_EditorClassIdentifier: 
   m_Logging: 1
   m_AutomaticPerformanceModeEnabled: 1
@@ -119,6 +119,3 @@ MonoBehaviour:
       m_MaxLevel: 1
       m_MinBound: -1
       m_MaxBound: -1
-  m_SamsungProviderLogging: 1
-  m_HighSpeedVRR: 1
-  m_AutomaticVRR: 1

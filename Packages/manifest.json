@@ -53,11 +53,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "net.peeweek.gameplay-ingredients": {
-      "revision": "2019.3.0",
-      "hash": "604801ada543d20bc302f6310305fe29016d23d2"
-    }
   }
 }
